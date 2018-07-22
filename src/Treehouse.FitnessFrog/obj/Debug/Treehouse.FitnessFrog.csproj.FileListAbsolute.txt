@@ -28,6 +28,6 @@ C:\Users\Jonathan\Source\Repos\fitness-frog\src\Treehouse.FitnessFrog\bin\System
 C:\Users\Jonathan\Source\Repos\fitness-frog\src\Treehouse.FitnessFrog\bin\System.Web.Webpages.Razor.xml
 C:\Users\Jonathan\Source\Repos\fitness-frog\src\Treehouse.FitnessFrog\bin\System.Web.Helpers.xml
 C:\Users\Jonathan\Source\Repos\fitness-frog\src\Treehouse.FitnessFrog\bin\System.Web.Mvc.xml
-C:\Users\Jonathan\Source\Repos\fitness-frog\src\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.csprojResolveAssemblyReference.cache
 C:\Users\Jonathan\Source\Repos\fitness-frog\src\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.dll
 C:\Users\Jonathan\Source\Repos\fitness-frog\src\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.pdb
+C:\Users\Jonathan\Source\Repos\fitness-frog\src\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.csprojResolveAssemblyReference.cache
